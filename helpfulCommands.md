@@ -28,3 +28,8 @@ aws cognito-idp sign-up \
 
 Kickstart a service
 serverless install --url https://github.com/AnomalyInnovations/serverless-nodejs-starter --name <NAME>
+
+
+npm install
+npm install aws-sdk --save-dev
+npm install uuid --save
