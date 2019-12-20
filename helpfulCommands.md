@@ -5,6 +5,7 @@
 
 App Client ID 2lfvpds9e7kq9t8q1ht1bmtnvj
 User Pool ID us-east-2_CRQ8aCfRK
+Cognito Identity Pool us-east-2:609a1b2f-f5a3-4dd2-9a6b-b16803abfb0e
 test user
 admin@example.com
 abc123DEF

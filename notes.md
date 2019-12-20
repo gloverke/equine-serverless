@@ -62,7 +62,7 @@ AWS Cognito Identity Pool Role
         "execute-api:Invoke"
       ],
       "Resource": [
-        "arn:aws:execute-api:YOUR_API_GATEWAY_REGION:*:m8nudfvxh0	/*/*/*"
+        "arn:aws:execute-api:us-east-2:*:m8nudfvxh0/*/*/*"
       ]
     }
   ]
