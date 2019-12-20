@@ -10,6 +10,9 @@ serverelss dashboard -- monitor
 https://github.com/aws-samples/lambda-refarch-mobilebackend
 
 
+Stripe Integeration
+https://serverless-stack.com/chapters/setup-a-stripe-account.html
+
 Tools
 
 Cognito - User poools for user login and managment.

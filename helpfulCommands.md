@@ -33,3 +33,7 @@ serverless install --url https://github.com/AnomalyInnovations/serverless-nodejs
 npm install
 npm install aws-sdk --save-dev
 npm install uuid --save
+
+
+test with a mock event
+ serverless invoke local --function create --path mocks/create-event.json

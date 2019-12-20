@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"horse name\",\"attachment\":\"photo.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "FAKE-USER-1"
+    }
+  }
+}

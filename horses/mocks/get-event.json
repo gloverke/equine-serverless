@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "id": "32f29fc0-229e-11ea-a493-b1dbbc203001"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "FAKE-USER-1"
+    }
+  }
+}
